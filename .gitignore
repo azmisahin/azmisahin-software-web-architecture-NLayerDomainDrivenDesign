@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/com.domain/bin
+/src/com.domain/obj
+/src/com.domain.Admin/bin
+/src/com.domain.Admin/obj
+/src/com.domain.Api/bin
+/src/com.domain.Api/obj
+/src/com.domain.Core/bin
+/src/com.domain.Core/obj
+/src/com.domain.Data/bin
+/src/com.domain.Data/obj
+/src/com.domain.Database/bin
+/src/com.domain.Database/obj
+/src/com.domain.Help/bin
+/src/com.domain.Help/obj
+/src/com.domain.Migrations/bin
+/src/com.domain.Migrations/obj
+/src/com.domain.MVC/bin
+/src/com.domain.MVC/obj
+/src/com.domain.Web/bin
+/src/com.domain.Web/obj
