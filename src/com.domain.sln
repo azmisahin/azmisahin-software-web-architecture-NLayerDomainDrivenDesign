@@ -21,6 +21,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.domain.Migrations", "co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{6C8C3023-AFB1-4377-8438-A8BE3F32D0D2}"
 	ProjectSection(SolutionItems) = preProject
+		Templates\com.domain.Admin.zip = Templates\com.domain.Admin.zip
+		Templates\com.domain.Api.zip = Templates\com.domain.Api.zip
+		Templates\com.domain.Core.zip = Templates\com.domain.Core.zip
+		Templates\com.domain.Data.zip = Templates\com.domain.Data.zip
+		Templates\com.domain.Database.zip = Templates\com.domain.Database.zip
+		Templates\com.domain.Help.zip = Templates\com.domain.Help.zip
+		Templates\com.domain.Migrations.zip = Templates\com.domain.Migrations.zip
+		Templates\com.domain.MVC.zip = Templates\com.domain.MVC.zip
+		Templates\com.domain.Web.zip = Templates\com.domain.Web.zip
 		Templates\com.domain.zip = Templates\com.domain.zip
 	EndProjectSection
 EndProject
